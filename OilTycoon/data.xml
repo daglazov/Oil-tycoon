@@ -1,0 +1,15 @@
+
+<dbinfo>
+    <well name=" sahalin2" id="0">
+        <equipment name="wtk367voU6WCEZjjNcl8AW7VHwdbnSjV" id="0"/>
+    </well>
+    <well name=" sahalin1" id="1"/>
+    <well name="sahalin1" id="2">
+        <equipment name="wtk367voU6WCEZjjNcl8AW7VHwdbnSWq" id="1"/>
+        <equipment name="wtk367voU6WCEZjjNcl8AW7VHwdbnSW2" id="4"/>
+    </well>
+    <well name="sahalin2" id="3">
+        <equipment name="wtk367voU6WCEZjjNcl8AW7VHwdbn12q" id="2"/>
+        <equipment name="wtk367voU6WCEZjjNcl8AW7VHwdbnSW3" id="3"/>
+    </well>
+</dbinfo>
